@@ -1,0 +1,35 @@
+_repo: Horsemanship-for-Women_42938
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Parker, Gray
+    aliases:
+    - Parker, Clarence Grey
+    - Gray Parker, C.
+    gutenberg_agent_id: '42208'
+    url: http://www.gutenberg.org/2009/agents/42208
+covers:
+- cover_type: archival
+  image_path: 42938-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mead, Theodore H. (Theodore Hoe)
+    alias: Mead, Theodore Hoe
+    birthdate: 1837
+    gutenberg_agent_id: '41938'
+    url: http://www.gutenberg.org/2009/agents/41938
+description: ''
+gutenberg_issued: '2013-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42938'
+  lccn: '12036632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horsemanship'
+- !lcc 'SF'
+title: Horsemanship for Women
+url: http://www.gutenberg.org/ebooks/42938
